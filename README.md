@@ -2,9 +2,9 @@
 
 The main goal is to count the number of each atoms in a molecule. 
 
-The input is a String, and the function returns a dictionary. 
+The input is a String representing a molecule formula (H2O for example), and the function returns a dictionary {'H': 2, 'O': 1}. 
 
-It needs pyhon3 to work.
+**It needs pyhon3 to work.**
 
 ## How to run 
 To run the program with basic examples : 
