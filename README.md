@@ -21,7 +21,7 @@ You can run tests using
 `python3 tests.py`
 
 You can import parse_molecule in your own program with
-```
+```python
 from parser import parse_molecule
 
 parse_molecule(H2O)
